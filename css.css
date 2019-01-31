@@ -1,0 +1,57 @@
+label {
+	margin: 0;
+	font-family: 'Work Sans', sans-serif;
+	font-weight: 650;
+	padding: 10px;
+	text-align: left;
+	text-indent: 5px;
+	
+}
+
+input {
+	font-family: "calibri";
+	font-size: 11pt;
+	text-align: left;
+	text-indent: 5px;
+	color: black;
+	padding: 7px;
+}
+
+select {
+	font-family: "calibri";
+	font-size: 10pt;
+	text-align: left;
+	text-indent: 5px;
+	color: black;
+}
+
+
+legend {
+	font-family: "calibri";
+	font-size: 20pt;
+	text-align: left;
+	text-indent: 5px;
+	color: black;
+	font-weight: 1000;
+}
+
+p {
+	font-family: "calibri";
+	font-size: 15pt;
+	text-align: left;
+	text-indent: 5px;
+	color: black;
+	padding: 0px;
+}
+
+.grid {
+	display:grid;
+	width: 90%;
+	margin: 0 auto;
+	color: black;
+	padding:1px;
+}
+
+
+
+
